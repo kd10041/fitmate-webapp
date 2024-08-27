@@ -7,7 +7,7 @@
 
 FitMate is a web application designed to help users manage their workout routines. It allows users to efficiently track their exercises by enabling them to add and delete workouts, providing an intuitive and interactive platform for workout management.
 
-![FitMate Overview]![alt text](images/image-2.png)
+![FitMate Overview](images/image-2.png)
 
 ## Key Features
 
