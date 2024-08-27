@@ -18,7 +18,7 @@ const WorkoutForm=()=>{
         const workout={title,load,reps}
 
         //Post request
-        const response =await fetch('/api/workouts',{
+        const response =await fetch('https://fitmate-webapp.onrender.com/api/workouts',{
             method:'POST',
 
             //convert to JSON
